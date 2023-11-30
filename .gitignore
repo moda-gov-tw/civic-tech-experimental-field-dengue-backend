@@ -1,0 +1,11 @@
+uploads/
+batch/
+testing/
+node_modules/
+.env
+jest.config.js
+DB/
+logs/
+push.sh
+push-production.sh
+push-all.sh

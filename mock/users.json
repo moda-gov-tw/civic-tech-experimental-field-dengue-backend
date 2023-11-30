@@ -1,0 +1,32 @@
+[
+  {
+    "account": "admin",
+    "password": "$2b$10$ZzsvJ.aFwSBeUquQwSeJfOGHYWnWSrA7fSEXZ0M9uC9INZ9gSaZEC",
+    "role": "admin",
+    "acl": {
+      "search": true,
+      "section": true,
+      "log": true
+    }
+  },
+  {
+    "account": "t1",
+    "password": "$2b$10$ISIoBb/V/sYaMnBJiWhkDeR.C72hGONEgMf929qSTVhX71nWzF3Gy",
+    "role": "t1",
+    "acl": {
+      "search": true,
+      "section": true,
+      "log": false
+    }
+  },
+  {
+    "account": "t2",
+    "password": "$2b$10$qa3nw1j0j4EjyZ81ffVmreqM8skvGBIsycL6O6/9x1HfUjjgJbFF2",
+    "role": "t2",
+    "acl": {
+      "search": true,
+      "section": false,
+      "log": false
+    }
+  }
+]
